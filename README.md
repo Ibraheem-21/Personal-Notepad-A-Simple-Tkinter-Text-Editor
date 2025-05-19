@@ -1,4 +1,4 @@
-# Personal-Notepad-A-Simple-Tkinter-Text-Editor
+# Personal Notepad
 
 ### 📌 Overview
 
